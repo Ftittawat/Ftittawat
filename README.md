@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tittawat
-- 📖 I’m currently learning Computer Engineering at KMUTT
+### 👋 Hi, I’m Tittawat
+- 📖 I’m currently studying Computer Engineering at King Mongkut's University of Technology Thonburi.
 
 <!---
 Ftittawat/Ftittawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
