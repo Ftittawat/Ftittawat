@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Tittawat
+## 👋 Hi, I’m Tittawat
 - 📖 I’m currently studying Computer Engineering at King Mongkut's University of Technology Thonburi.
 
 <!---
