@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ftittawat
-- 👀 I’m interested in Network and Security
 - 📖 I’m currently learning Computer Engineering at KMUTT
 
 <!---
