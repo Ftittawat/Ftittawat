@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ftittawat
+- 👋 Hi, I’m Tittawat
 - 📖 I’m currently learning Computer Engineering at KMUTT
 
 <!---
