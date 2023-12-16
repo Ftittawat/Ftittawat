@@ -3,7 +3,7 @@ Hi 👋 My name is Tittawat Jai-ou
 
 Android Developer
 -----------------
-
+* 📖  I’m currently studying Computer Engineering at King Mongkut's University of Technology Thonburi.
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [tittawatjaiou@gmail.com](mailto:tittawatjaiou@gmail.com)
 
