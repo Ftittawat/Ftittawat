@@ -2,7 +2,6 @@ Hi 👋 My name is Tittawat Jai-ou
 ================================
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [tittawat-portfolio.me](http://www.tittawat-portfolio.me/)
 * ✉️  You can contact me at [tittawatjaiou@gmail.com](mailto:tittawatjaiou@gmail.com)
 
 ### Skills
