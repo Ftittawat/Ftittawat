@@ -23,10 +23,6 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="16"/> Android Studio
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="16"/> Gradle
 
-### 🔧 Other
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Git
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="16"/> Firebase
-
 ---
 
 ## 📫 Get in Touch
